@@ -1,0 +1,6 @@
+{
+  "name": "Erdem Pusulası - Yetkin ve Erdemli İnsan",
+  "description": "Öğrencilerin ahlaklı, bilge, cesaretli, estetik, iradeli, merhametli, sağlıklı, sorgulayıcı, üretken ve vatansever niteliklerini kazanmalarını sağlayan interaktif görev ve değerlendirme ekosistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
